@@ -7,7 +7,7 @@ https://www.google.com/maps kullanılarak Türkiye'nin il merkez koordinatları 
 <html>
 <body>
 	<h1>Leafletjs ile örnek marker uygulaması</h1>
-	<p>Leafletjs ile ilgili detaylı bilgilerndirme ve örnekler için <a href="https://leafletjs.com/examples.html" target="_blank" title="Leaflet örnekler">https://leafletjs.com/examples.html</a> sayfasını ziyaret edebilirsiniz.</p>
+	<p>Leafletjs ile ilgili detaylı bilgilendirme ve örnekler için <a href="https://leafletjs.com/examples.html" target="_blank" title="Leaflet örnekler">https://leafletjs.com/examples.html</a> sayfasını ziyaret edebilirsiniz.</p>
 	
 	<div id="leaflet_map" style="width: 100%;height: 500px"></div>
 
